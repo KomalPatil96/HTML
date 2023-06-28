@@ -1,0 +1,28 @@
+<html>
+    <head></head>
+    <title></title>
+    <body>
+        normal text.
+        <br>
+
+        <h1> h1 </h1>
+        <h2> h2 </h2>
+        <h3> h3 </h3>
+        <h4> h4 </h4>
+        <h5> h5 </h5>
+        <h6> h6 </h6>
+<br>
+        <p> I am komal</p>
+        <p> I am from Kolhapur.</p>
+        <p> Hobby is drawing</p>
+        <br>
+        2<sub>3</sub>
+        <br>
+        2<sup>3</sup>
+       
+        <br><br>
+        This is normal text.
+        <br><br>
+        <tt>This is teletype text</tt>
+    </body>
+</html>

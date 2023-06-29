@@ -1,0 +1,16 @@
+<html>
+    <frameset rows="20%,60%,20%" >
+        <frame name="top" src="C1.html"></frame>
+    <frameset cols="20%,60%,20%" >
+        <frame name="left" src="C1.html"></frame>
+        <frame name="middle" src="C2.html"></frame>
+        <frame name="right" src="C3.html"></frame>
+    </frameset>
+    <frame name="bottom" src="R1.html"></frame>
+    <noframes>
+        <body>
+            This is my name.
+        </body>
+    </noframes>
+</frameset>
+</html>
